@@ -1,5 +1,6 @@
 {
+    "parent":"minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/abyssal_ingot"
+        "layer0": "dp:item/abyssal_ingot"
     }
 }

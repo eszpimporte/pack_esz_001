@@ -1,5 +1,6 @@
 {
+    "parent":"minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/bijoux_moon"
+        "layer0": "dp:item/bijoux_moon"
     }
 }
